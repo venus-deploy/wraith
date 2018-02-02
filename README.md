@@ -3,7 +3,7 @@ wraith 1.0
 VENUS PROJECT:
 
 -Wraith Protocol Beta:
-1) Below is the VenusProject.js file that was compiled to deploy the Wraith smart contract on 02/01/2018. It contains all the comments necessary to deploy the Venus ecosystem protocol.
+1) Below is the wraith.js file that was compiled to deploy the Wraith smart contract on 02/01/2018. It contains all the comments necessary to deploy the Venus ecosystem protocol.
 \
 2) Token Name: Venus\
 Total supply: 1,000,000,000 VNS\
