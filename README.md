@@ -8,5 +8,8 @@ VENUS Deployment:
 2) Token Name: Venus;
 Total supply: 1,000,000,000 VNS;
 Token Symbol: VNS;
+Token Type: ERC20;
+Contract address: 0x5605642a11d064d5bae29eed2c64391e07785ddd;
+
 
 This code was compiled using the Ethereum 0.4.19+commit.c4cbbb05.Emscripten.clang. compiler.
